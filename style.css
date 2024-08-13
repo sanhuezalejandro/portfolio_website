@@ -61,6 +61,12 @@ section {
     border-bottom: 1px solid #e0e0e0;
 }
 
+video {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
 h2 {
     color: #2c3e50;
 }
