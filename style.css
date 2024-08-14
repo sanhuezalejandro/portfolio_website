@@ -61,10 +61,16 @@ section {
     border-bottom: 1px solid #e0e0e0;
 }
 
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
 video {
     max-width: 100%;
     height: auto;
-    margin: 20px 0;
 }
 
 h2 {
